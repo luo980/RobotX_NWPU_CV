@@ -1,0 +1,2 @@
+robot_vision:zed-ros-wrapper/zed_display_rviz:zed-ros-wrapper/zed_nodelet_example:zed-ros-wrapper/zed_rtabmap_example:zed-ros-wrapper/zed_wrapper
+-DCATKIN_DEVEL_PREFIX=/home/nvidia/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/nvidia/catkin_ws/install -G Unix Makefiles
