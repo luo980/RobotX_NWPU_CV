@@ -3,7 +3,9 @@
 ## 写在前面
 
 ### 如何下载仓库信息
-'git clone https://github.com/luo980/RobotX_NWPU_CV.git'
+(''')
+git clone https://github.com/luo980/RobotX_NWPU_CV.git
+(''')
 
 ### 如何更新库信息
 'git add .'
