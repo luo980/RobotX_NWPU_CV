@@ -37,3 +37,20 @@
 //如果不想保留temp分支 可以用这步删除
 
 
+## 进阶部分
+
+###基本概念
+1、 master 主分支
+2、 origin 远程主机
+
+#### git pull
+`git pull <远程主机名> <远程分支名>:<本地分支名>`
+
+//取回远程主机某个分支的更新，再与本地的指定分支合并。
+
+`git pull origin//远程主机 master//主分支 ： cv_tmp//本地分支`
+git过程： 本地自己拥有一个分支，从远程下载一个分支，git diff比较不同
+
+#### git push
+`git push -u origin master`
+将本地的master推送到远程主机的master
