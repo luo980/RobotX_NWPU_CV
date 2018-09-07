@@ -12,6 +12,7 @@
 `git push -u origin master`
 
 ### 成为contributor 点主页右上角fork
+`fork`
 
 ### 如果显示remote contains work that you do not have locally
 ### 使用如下命令关联本地与远程分支
